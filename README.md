@@ -134,7 +134,7 @@ Capturing 10 packets...
     ├── UDP: 3 (30%)
     ├── ICMP: 1 (10%)
     ├── Data Volume: 1.2 KB
-    └── Top Source IP: 192.168.1.100 (5 packets)
+    └── Top Source IP:"X.X.X.X" (5 packets)
 ```
 
 ## 🔧 Features
